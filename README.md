@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prasanth  
+# 👋 Hi There, I'm Prasanth Shanmugam
 
 🎓 MS Software Engineering @ Heriot-Watt University (Edinburgh)  
 💻 Ex-SDE @ Wipro, Mahindra First Choice Wheels | 4+ years industry experience  
@@ -27,4 +27,4 @@
 - 📫 prasanthshanmugam1402@gmail.com  
 
 ---
-⭐️ * Feel free to explore or reach out for collaboration.*
+⭐️ *Feel free to explore or reach out for collaboration.*
