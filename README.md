@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm Prasanth  
 
-<!--
-**Prasanth-1402/Prasanth-1402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS Software Engineering @ Heriot-Watt University (Edinburgh)  
+💻 Ex-SDE @ Wipro, Mahindra First Choice Wheels | 4+ years industry experience  
+🚀 Aspiring Software Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** Java, JavaScript, Python, C#, TypeScript
+- **Frameworks:** React, Spring Boot, Node, Spring Data JPA, Spring Security  
+- **Databases:** MySQL, MongoDB  
+- **Tools & Platforms:** GitHub, Docker, Kafka, IntelliJ, Eclipse
+
+---
+
+## 📈 What I’m Focusing On
+- Deep-diving into the **Spring ecosystem** (Boot, Security, Cloud) + Python Basics
+- Enhancing problem-solving with **data structures & algorithms** for SDE interviews  
+- Building scalable, production-ready side projects  
+
+---
+
+## 🌍 Let's Connect
+- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/prasanth-shanmugam/))  
+- [Portfolio](https://portfolio-1402.vercel.app)  
+- 📫 prasanthshanmugam1402@gmail.com  
+
+---
+⭐️ * Feel free to explore or reach out for collaboration.*
