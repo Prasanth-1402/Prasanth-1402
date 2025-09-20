@@ -22,7 +22,7 @@
 ---
 
 ## 🌍 Let's Connect
-- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/prasanth-shanmugam/))  
+- [LinkedIn](https://www.linkedin.com/in/prasanth-shanmugam/)
 - [Portfolio](https://portfolio-1402.vercel.app)  
 - 📫 prasanthshanmugam1402@gmail.com  
 
