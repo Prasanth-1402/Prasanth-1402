@@ -17,8 +17,7 @@
 ## 📈 What I’m Focusing On
 - Deep-diving into the **Spring ecosystem** (Boot, Security, Cloud) + Python Basics
 - Enhancing problem-solving with **data structures & algorithms** for SDE interviews  
-- Building scalable, production-ready side projects  
-
+- All the above while, Coping up with the univerity requirements
 ---
 
 ## 🌍 Let's Connect
