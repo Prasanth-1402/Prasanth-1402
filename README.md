@@ -2,22 +2,22 @@
 
  MS Software Engineering @ Heriot-Watt University (Edinburgh)  
  Ex-SDE @ Wipro, Mahindra First Choice Wheels | 4+ years industry experience  
- Aspiring Software Engineer  
+ Experienced SDE specializing in Java & Backend Systems 
 
 ---
 
 ##  Tech Stack
-- **Languages:** Java, JavaScript, Python, C#, TypeScript
+- **Languages:** Java(Expert), JavaScript(Expert), Python(Intermediate),  TypeScript(Intermediate), C#(Beginner)
 - **Frameworks:** React, Spring Boot, Node, Spring Data JPA, Spring Security  
-- **Databases:** MySQL, MongoDB  
+- **Databases:** MySQL, MongoDB, PostgreSQL 
 - **Tools & Platforms:** GitHub, Docker, Kafka, IntelliJ, Eclipse
 
 ---
 
 ##  What I’m Focusing On
-- Deep-diving into the **Spring ecosystem** (Boot, Security, Cloud) + Python Basics
-- Enhancing problem-solving with **data structures & algorithms** for SDE interviews  
-- All the above while, Coping up with the univerity requirements
+- **Dissertation:** Building a Static Code Analyzer for **Java Concurrency & Multithreading** (Summer 2026)  
+- **System Design:** Studying distributed systems, architectural patterns, and scalability (HLD & LLD) to build robust enterprise applications
+- **Problem Solving:** Mastering Data Structures & Algorithms (DSA)
 ---
 
 ##  Let's Connect
