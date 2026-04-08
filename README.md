@@ -14,8 +14,7 @@
 
 ---
 
-##  What I’m Focusing On
-- **Dissertation:** Building a Static Code Analyzer for **Java Concurrency & Multithreading** (Summer 2026)  
+##  What I’m Focusing On  
 - **System Design:** Studying distributed systems, architectural patterns, and scalability (HLD & LLD) to build robust enterprise applications
 - **Problem Solving:** Mastering Data Structures & Algorithms (DSA)
 ---
